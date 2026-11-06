@@ -28,4 +28,4 @@
 ## Tools
 - Microsoft Excel
 - GitHub
-- [[View Certificate (PDF)](PASTE-LINK-SIJIL-KAU-DI-SINI](https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf))
+- [(https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf))

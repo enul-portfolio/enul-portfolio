@@ -86,17 +86,6 @@ An academic project involving sales performance and customer analysis using a si
 
 [View Excel Project](https://github.com/enul-portfolio/sales-performance-customer-analysis)
 
-### 2. BluScent Air Conditioner
-
-**Project Type:** Academic Group Innovation Project
-
-An innovative multifunctional air conditioning concept that combines air purification, white noise, built-in Wi-Fi speakers and smart connectivity.
-
-**Key Features:**
-- Air purification
-- White noise through built-in Wi-Fi speakers
-- Smart connectivity
-
 ## Certifications & Training
 
 ### Data Analytics Power Up Programme

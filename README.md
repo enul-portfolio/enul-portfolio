@@ -38,15 +38,17 @@
   - [View Certificate (PDF)](https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf)
 ## Awards & Achievements
 
-### Silver Award – Melaka International Intellectual Exposition (MIIEX)
+### 🏆 Silver Award – Melaka International Intellectual Exposition (MIIEX)
 
 **Project:** BluScent Air Conditioner
 
-An innovative multifunctional air conditioning concept that integrates:
-- Air conditioning and air purification.
-- Built-in Wi-Fi speaker for white noise.
-- Smart remote control connectivity.
+An innovative multifunctional air conditioning concept combining air purification, white noise, built-in Wi-Fi speakers and smart connectivity.
 
-**Achievement:** Silver Award recipient at the Melaka International Intellectual Exposition (MIIEX), organised by UiTM Cawangan Melaka.
+- Organised by Universiti Teknologi MARA (UiTM) Cawangan Melaka.
+- Academic Group Innovation Project.
+- [View Silver Award Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_SILVER_485.pdf)
 
-**Project Type:** Academic Group Innovation Project
+### Certificate of Participation – MIIEX
+
+- Participated in the Melaka International Intellectual Exposition.
+- [View Participation Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_485.pdf)

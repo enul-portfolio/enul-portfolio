@@ -35,4 +35,4 @@
   - Delivered by PwC's Academy.
   - December 2024 – January 2025.
   - Successfully completed.
-  - [View Certificate (PDF)]((https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf))
+  - [View Certificate (PDF)](https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf)

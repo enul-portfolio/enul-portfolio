@@ -57,8 +57,10 @@ An innovative multifunctional air conditioning concept combining air purificatio
 ### Audit Intern – Ismawadee & Co.
 
 **Internship Period:** 9 March 2026 – 28 August 2026
+
 **Practical Training | Audit Firm**
 
+**Responsibilities:**
 - Assisted in performing audit procedures for cash and bank balances.
 - Assisted in auditing Property, Plant and Equipment (PPE).
 - Performed payroll-related audit testing, including salaries and statutory contributions.

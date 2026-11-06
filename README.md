@@ -1,57 +1,44 @@
 # Hi, I'm Ainul! 👋
 
-🎓 Accountancy Graduate | Aspiring Accounting & Data Analytics Professional
+🎓 Accountancy Student | Aspiring Accounting, Audit & Data Analytics Professional
 
 ## About Me
-- Background in Accountancy.
-- Interested in Accounting, Auditing and Data Analytics.
-- Have practical training experience in an audit firm.
-- Familiar with Microsoft Excel, data entry and data cleaning.
-- Interested in using technology to improve accounting and business processes.
+
+I have an academic background in Accountancy with practical training experience in an audit firm. I am interested in developing my knowledge and skills in accounting, auditing and data analytics.
+
+I enjoy working with data, learning new technologies and exploring ways to improve business and financial processes.
 
 ## Areas of Interest
+
 - Accounting
 - Auditing
-- Data Analytics
 - Financial Reporting
+- Data Analytics
+- Financial Planning & Analysis (FP&A)
 
 ## Skills
-- Microsoft Excel
-- Data Entry & Data Cleaning
-- Data Organisation
-- Basic Audit Procedures
+
+**Accounting & Auditing**
 - Accounting Knowledge
+- Basic Audit Procedures
+- Audit Documentation
+- Vouching
+- Payroll Testing
 
-## Projects
-- [Sales Performance & Customer Analysis](../sales-performance-customer-analysis)
-
-## Tools
+**Data & Technical**
 - Microsoft Excel
-- GitHub
-## Certifications & Training
+- Data Entry
+- Data Cleaning
+- Data Organisation
+- Dashboard Visualisation
 
-- **Data Analytics Power Up Programme**
-  - Organised by Faculty of Accountancy, UiTM.
-  - Delivered by PwC's Academy.
-  - December 2024 – January 2025.
-  - Successfully completed.
-  - [View Certificate (PDF)](https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf)
-## Awards & Achievements
+**Professional Skills**
+- Analytical Thinking
+- Problem-Solving
+- Communication
+- Teamwork
+- Attention to Detail
 
-### 🏆 Silver Award – Melaka International Intellectual Exposition (MIIEX)
-
-**Project:** BluScent Air Conditioner
-
-An innovative multifunctional air conditioning concept combining air purification, white noise, built-in Wi-Fi speakers and smart connectivity.
-
-- Organised by Universiti Teknologi MARA (UiTM) Cawangan Melaka.
-- Academic Group Innovation Project.
-- [View Silver Award Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_SILVER_485.pdf)
-
-### Certificate of Participation – MIIEX
-
-- Participated in the Melaka International Intellectual Exposition.
-- [View Participation Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_485.pdf)
 ## Work Experience
 
 ### Audit Intern – Ismawadee & Co.
@@ -75,3 +62,72 @@ An innovative multifunctional air conditioning concept combining air purificatio
 - Analytical Thinking
 - Attention to Detail
 - Teamwork and Communication
+
+## Projects
+
+### 1. Sales Performance & Customer Analysis
+
+**Tool:** Microsoft Excel
+
+**Project Type:** Academic Group Project (AIS655)
+
+An academic project involving sales performance and customer analysis using a simulated dataset.
+
+**Project Objectives:**
+- Explore sales performance.
+- Organise and prepare business data.
+- Examine customer information.
+- Present business information through dashboard visualisation.
+
+**My Contribution:**
+- Data entry
+- Data cleaning
+- Data organisation
+
+[View Excel Project](https://github.com/enul-portfolio/sales-performance-customer-analysis)
+
+### 2. BluScent Air Conditioner
+
+**Project Type:** Academic Group Innovation Project
+
+An innovative multifunctional air conditioning concept that combines air purification, white noise, built-in Wi-Fi speakers and smart connectivity.
+
+**Key Features:**
+- Air purification
+- White noise through built-in Wi-Fi speakers
+- Smart connectivity
+
+## Certifications & Training
+
+### Data Analytics Power Up Programme
+
+**Organised by:** Faculty of Accountancy, UiTM  
+**Delivered by:** PwC's Academy  
+**Period:** December 2024 – January 2025
+
+Successfully completed the Data Analytics Power Up Programme.
+
+[View PwC Certificate (PDF)](https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf)
+
+## Awards & Achievements
+
+### 🏆 Silver Award – Melaka International Intellectual Exposition (MIIEX)
+
+**Project:** BluScent Air Conditioner
+
+Received a Silver Award for the BluScent Air Conditioner innovation project at the Melaka International Intellectual Exposition.
+
+**Organiser:** Universiti Teknologi MARA (UiTM) Cawangan Melaka
+
+[View Silver Award Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_SILVER_485.pdf)
+
+### Certificate of Participation – MIIEX
+
+Participated in the Melaka International Intellectual Exposition.
+
+[View Participation Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_485.pdf)
+
+## Tools
+
+- Microsoft Excel
+- GitHub

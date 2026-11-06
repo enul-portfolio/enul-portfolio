@@ -28,4 +28,11 @@
 ## Tools
 - Microsoft Excel
 - GitHub
--https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf
+## Certifications & Training
+
+- **Data Analytics Power Up Programme**
+  - Organised by Faculty of Accountancy, UiTM.
+  - Delivered by PwC's Academy.
+  - December 2024 – January 2025.
+  - Successfully completed.
+  - [View Certificate (PDF)]((https://github.com/enul-portfolio/enul-portfolio/blob/main/Certificate_of_Completion.pdf))

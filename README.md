@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ainul! 👋
 
-<!--
-**enul-portfolio/enul-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Accountancy Graduate | Aspiring Accounting & Data Analytics Professional
 
-Here are some ideas to get you started:
+## About Me
+- Background in Accountancy.
+- Interested in Accounting, Auditing and Data Analytics.
+- Have practical training experience in an audit firm.
+- Familiar with Microsoft Excel, data entry and data cleaning.
+- Interested in using technology to improve accounting and business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Accounting
+- Auditing
+- Data Analytics
+- Financial Reporting
+
+## Skills
+- Microsoft Excel
+- Data Entry & Data Cleaning
+- Data Organisation
+- Basic Audit Procedures
+- Accounting Knowledge
+
+## Projects
+- [Sales Performance & Customer Analysis](../sales-performance-customer-analysis)
+
+## Tools
+- Microsoft Excel
+- GitHub

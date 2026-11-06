@@ -66,7 +66,11 @@ I enjoy working with data, learning new technologies and exploring ways to impro
 ## Projects
 
 ### 1. Sales Performance & Customer Analysis
+#### Dashboard Preview
 
+### Sales Performance Dashboard
+
+![Sales Dashboard](https://github.com/enul-portfolio/Sales-Performance-Customer-Analysis/blob/main/sales.dashboard.png)
 **Tool:** Microsoft Excel
 
 **Project Type:** Academic Group Project (AIS655)

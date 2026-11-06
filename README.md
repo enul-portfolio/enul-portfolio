@@ -52,3 +52,23 @@ An innovative multifunctional air conditioning concept combining air purificatio
 
 - Participated in the Melaka International Intellectual Exposition.
 - [View Participation Certificate](https://github.com/enul-portfolio/enul-portfolio/blob/main/C_485.pdf)
+## Work Experience
+
+### Audit Intern – Ismawadee & Co.
+
+**Practical Training | Audit Firm**
+
+- Assisted in performing audit procedures for cash and bank balances.
+- Assisted in auditing Property, Plant and Equipment (PPE).
+- Performed payroll-related audit testing, including salaries and statutory contributions.
+- Assisted with vouching and verification of supporting documents.
+- Prepared and organised audit working papers.
+- Assisted with audit documentation and confirmation letters.
+
+**Skills Gained:**
+- Audit Procedures
+- Financial Statement Understanding
+- Microsoft Excel
+- Analytical Thinking
+- Attention to Detail
+- Teamwork and Communication
